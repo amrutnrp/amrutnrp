@@ -10,8 +10,10 @@ Here's a List of my projects (only the good ones) <br>
 | [Odia language typing](https://github.com/swtrix-by-Amrut/Odia-Fasttype-windows)  | |✅ | |C++, Lua |
 | [Rust host app with lua backend for scripting](https://github.com/swtrix-by-Amrut/Rustlue) | | ✅| ✅| Rust, Lua, GUI|
 | [Link Launcher using Rust](https://github.com/swtrix-by-Amrut/Rusty-Launcher) | | ✅|✅ | GUI, Rust |
-
-|  | | | | |
+| [Python Obfuscation](https://github.com/swtrix-by-Amrut/Secure-Runner) | |✅ |✅ |Python, Rust |
+|  [Dashboard for Linux server](https://github.com/swtrix-by-Amrut/Dashboard-for-Linux-server)| | ✅|✅ | Linux Server |
+| [Compare CSV](https://github.com/swtrix-by-Amrut/CSV-comparator) | | ✅| ✅| python, web, streamlit  |
+| [Highlight components in schematic diagram](https://github.com/swtrix-by-Amrut/Highlight-BOM-in-Schematic)  | | ✅| ✅| python, web, streamlit  |
 |  | | | | |
 
 
