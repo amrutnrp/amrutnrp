@@ -1,8 +1,20 @@
-- 👋 Hi, I’m  Amrut
-- 👀 Interested in electronics and coding.
-- 🌱 Currently tinkering with python, lua, Raspberry pi.
-- 💞️ I’m looking to collaborate on ...  umm.... nothing specific; I like to solve problems differently. Let me know if you find it interesting.
-- 📫 linkedIn -> https://www.linkedin.com/in/amrutn-pngr/
+ # 👋 Hi, I’m Amrut
+- I love to create, build and tinker - with Microcontrollers, PCBs, code, automations, tools, ideas & whatnot.
+- 💞️ Open to collaborate. Gimme a ping
+- 📫 linkedIn -> amrutn-pngr
+---
+Here's a List of my projects (only the good ones) <br>
+| Project | HW | SW | AI-Assisted | Components |
+|---------|----|----|-------------|------------|
+| [UART based LCD driver using 8051](https://github.com/Hardware-Lab-by-Amrut/UART-based-LCD)| ✅  | |  | PCB, 8051, Assembly
+| [Odia language typing](https://github.com/swtrix-by-Amrut/Odia-Fasttype-windows)  | |✅ | |C++, Lua |
+| [Rust host app with lua backend for scripting](https://github.com/swtrix-by-Amrut/Rustlue) | | ✅| ✅| Rust, Lua, GUI|
+| [Link Launcher using Rust](https://github.com/swtrix-by-Amrut/Rusty-Launcher) | | ✅|✅ | GUI, Rust |
+
+|  | | | | |
+|  | | | | |
+
+
 
 <!---
 amrutnrp/amrutnrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
