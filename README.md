@@ -3,7 +3,7 @@
 - 💞️ Open to collaborate. Gimme a ping
 - 📫 linkedIn -> amrutn-pngr
 ---
-Here's a List of my projects (only the good ones) <br>
+Here's a List of my projects (only the presentable ones :P) <br>
 | Project | HW | SW | AI-Assisted | Components |
 |---------|----|----|-------------|------------|
 | [UART based LCD driver using 8051](https://github.com/Hardware-Lab-by-Amrut/UART-based-LCD)| ✅  | |  | PCB, 8051, Assembly
