@@ -15,6 +15,7 @@ Here's a List of my projects (only the presentable ones :P) <br>
 | [Compare CSV](https://github.com/swtrix-by-Amrut/CSV-comparator) | | ✅| ✅| python, web, streamlit  |
 | [Highlight components in schematic diagram](https://github.com/swtrix-by-Amrut/Highlight-BOM-in-Schematic)  | | ✅| ✅| python, web, streamlit  |
 |  [Python BKM](https://gist.githubusercontent.com/amrutnrp/e8e8ab7761e47d4afb35dab2a29ff388/raw/76423265648019f677a9c2419d111c226b0d0585/README.md)| | ✅| |python |
+| [Promira-prime: Custom SPI dongle solution](https://github.com/swtrix-by-Amrut/Promira-prime)  |✅ |✅ | | python, Arduino|
 |  | | | | |
 
 
