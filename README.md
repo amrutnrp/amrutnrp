@@ -1,7 +1,7 @@
  # 👋 Hi, I’m Amrut
 - I love to create, build and tinker - with Microcontrollers, PCBs, code, automations, tools, ideas & whatnot.
 - 💞️ Open to collaborate. Gimme a ping
-- 📫 linkedIn -> amrut-pngr
+- 📫 linkedIn -> [amrut-pngr](https://www.linkedin.com/in/amrut-pngr/)
 ---
 Here's a List of my projects (only the presentable ones :P & not in chronological order) <br>
 | Project | HW | SW | AI-Assisted | Components |
