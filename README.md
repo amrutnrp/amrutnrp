@@ -3,7 +3,7 @@
 - 💞️ Open to collaborate. Gimme a ping
 - 📫 linkedIn -> amrutn-pngr
 ---
-Here's a List of my projects (only the presentable ones :P) <br>
+Here's a List of my projects (only the presentable ones :P & not in chronological order) <br>
 | Project | HW | SW | AI-Assisted | Components |
 |---------|----|----|-------------|------------|
 | [UART based LCD driver using 8051](https://github.com/Hardware-Lab-by-Amrut/UART-based-LCD)| ✅  | |  | PCB, 8051, Assembly
@@ -16,6 +16,7 @@ Here's a List of my projects (only the presentable ones :P) <br>
 | [Highlight components in schematic diagram](https://github.com/swtrix-by-Amrut/Highlight-BOM-in-Schematic)  | | ✅| ✅| python, web, streamlit  |
 |  [Python BKM](https://gist.githubusercontent.com/amrutnrp/e8e8ab7761e47d4afb35dab2a29ff388/raw/76423265648019f677a9c2419d111c226b0d0585/README.md)| | ✅| |python |
 | [Promira-prime: Custom SPI dongle solution](https://github.com/swtrix-by-Amrut/Promira-prime)  |✅ |✅ | | python, Arduino|
+|[8051 flashing tool using Teensy](https://github.com/Hardware-Lab-by-Amrut/8051-flasher-using-teensy)|✅| | | Arduino, Teensy|
 |  | | | | |
 
 
