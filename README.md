@@ -1,5 +1,6 @@
  # 👋 Hi, I’m Amrut
-- I love to create, build and tinker - with Microcontrollers, PCBs, code, automations, tools, ideas & whatnot.
+- I love to **create, build and tinker** - whether it's Microcontrollers, PCBs, code, script, automations, tools, ideas & whatnot. <br>
+- My projects span **embedded hardware**, **open source software**, **handmade PCBs**, **FPGA/RTL**, **Python automation**, and **AI-assisted tools**
 - 💞️ Open to collaborate. Gimme a ping
 - 📫 linkedIn -> [amrut-pngr](https://www.linkedin.com/in/amrut-pngr/)
 ---
