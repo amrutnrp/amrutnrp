@@ -93,7 +93,7 @@
 Here's a List of my projects not related to work (only the presentable ones :P & not in chronological order) <br>
 | Project | HW | SW | AI-Assisted | Components |
 |---------|----|----|-------------|------------|
-|  [Python BKM](https://gist.githubusercontent.com/amrutnrp/e8e8ab7761e47d4afb35dab2a29ff388/raw/76423265648019f677a9c2419d111c226b0d0585/README.md)| | ✅| |python |
+|  [Python BKM](https://gist.github.com/amrutnrp/e8e8ab7761e47d4afb35dab2a29ff388)| | ✅| |python |
 | [Promira-prime: Custom SPI dongle solution](https://github.com/swtrix-by-Amrut/Promira-prime)  |✅ |✅ | | python, Arduino|
 | [Rust host app with lua backend for scripting](https://github.com/swtrix-by-Amrut/Rustlue) | | ✅| ✅| Rust, Lua, GUI|
 | [UART based LCD driver using 8051](https://github.com/Hardware-Lab-by-Amrut/UART-based-LCD)| ✅  | |  | PCB, 8051, Assembly
