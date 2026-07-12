@@ -94,17 +94,26 @@ Here are my presentable non-work projects, grouped by category for easier browsi
 
 | Category | Project | Hardware | Software | AI-Assisted | Technologies / Components |
 | --- | --- | :---: | :---: | :---: | --- |
-| Reference | [Python BKM](https://gist.github.com/amrutnrp/e8e8ab7761e47d4afb35dab2a29ff388) |  | ✅ |  | Python |
-| Embedded Systems | [Promira-prime: Custom SPI dongle solution](https://github.com/swtrix-by-Amrut/Promira-prime) | ✅ | ✅ |  | Python, Arduino |
-| Desktop Tools | [Rust host app with Lua backend for scripting](https://github.com/swtrix-by-Amrut/Rustlue) |  | ✅ | ✅ | Rust, Lua, GUI |
-| Embedded Systems | [UART-based LCD driver using 8051](https://github.com/Hardware-Lab-by-Amrut/UART-based-LCD) | ✅ |  |  | PCB, 8051, Assembly |
-| Web Tools | [Dashboard for Linux server](https://github.com/swtrix-by-Amrut/Dashboard-for-Linux-server) |  | ✅ | ✅ | Linux server |
-| Desktop Tools | [Odia language typing](https://github.com/swtrix-by-Amrut/Odia-Fasttype-windows) |  | ✅ |  | C++, Lua |
-| Desktop Tools | [Link Launcher using Rust](https://github.com/swtrix-by-Amrut/Rusty-Launcher) |  | ✅ | ✅ | GUI, Rust |
-| Developer Tools | [Python Obfuscation](https://github.com/swtrix-by-Amrut/Secure-Runner) |  | ✅ | ✅ | Python, Rust |
-| Web Tools | [Compare CSV](https://github.com/swtrix-by-Amrut/CSV-comparator) |  | ✅ | ✅ | Python, web, Streamlit |
-| EDA Tools | [Highlight components in schematic diagram](https://github.com/swtrix-by-Amrut/Highlight-BOM-in-Schematic) |  | ✅ | ✅ | Python, web, Streamlit |
-| Embedded Systems | [8051 flashing tool using Teensy](https://github.com/Hardware-Lab-by-Amrut/8051-flasher-using-teensy) | ✅ |  |  | Arduino, Teensy |
+| ToolBox | [PowerDC-Automata: Setup Assistant for PowerDC simulation](https://github.com/amrutnrp/PowerDC-Automata-light) |  | ✅ |  | Python |
+| ToolBox | [Circuit-reView: collection of tools to review circuit/schematic](https://github.com/amrutnrp/Circuit-reView) |  | ✅ |  | Python |
+| ToolBox | [Circuit-reView-light: Same but lighter](https://github.com/amrutnrp/Circuit-reView-light) |  | ✅ |  |Python |
+| Tool | [Dashboard for Linux server: Cockpit v2](https://github.com/amrutnrp/sw.Cockpit_DIY_python/tree/main) |  | ✅ | ✅ | python, bash |
+| Tool | [Project Management Dashboard](https://github.com/amrutnrp/Project-Dashboard-webui) |  | ✅ | ✅ | Python, web, fastapi|
+| Library | [Schbd-print : Library to visualise circuit connections](https://github.com/amrutnrp/schbd-print-v2) |  | ✅ |  | Python |
+| Utility | [Odia language typing](https://github.com/amrutnrp/sw.Odia-Fasttype-windows) |  | ✅ |  | C++, Lua |
+| App | [Server Capital: Dashboard to keep track of servers](https://github.com/amrutnrp/server-capital) |  | ✅ |  ✅ | Python, Rust|
+| App | [Promira-prime: Custom SPI dongle solution](https://github.com/amrutnrp/Promira-prime) | ✅ | ✅ |  | Python, Arduino |
+| App | [8051 flashing tool using Teensy](https://github.com/amrutnrp/HW.8051-flasher-using-teensy) | ✅ |  |  | Arduino, Teensy |
+| App | [Link Launcher using Rust](https://github.com/amrutnrp/Rusty-Launcher) |  | ✅ | ✅ | GUI, Rust |
+| Framework | [Rustlue: Rust host + Lua backend for scripting](https://github.com/amrutnrp/Rustlue) |  | ✅ | ✅ | Rust, Lua, GUI |
+| Framework | [Python Obfuscation via Rust](https://github.com/amrutnrp/Secure-Runner) |  | ✅ | ✅ | Python, Rust |
+| Gadget | [UART-based LCD driver using 8051](https://github.com/amrutnrp/HW.UART-based-LCD) | ✅ |  |  | PCB, 8051, Assembly |
+| Tool | [Dashboard for Linux server (Deprecated) ](https://github.com/amrutnrp/Dashboard-for-Linux-server) |  | ✅ | ✅ | Linux server |
+| Tool | [Dashboard for Project Management (Deprecated) ](https://github.com/amrutnrp/Project-manager-dpg) |  | ✅ |  | Python, GUI |
+| Script | [Compare CSV](https://github.com/amrutnrp/sw.CSV-comparator) |  | ✅ | ✅ | Python, web, Streamlit |
+| Script | [Highlight components in schematic diagram](https://github.com/amrutnrp/sw.Highlight-BOM-in-Schematic) |  | ✅ | ✅ | Python, web, Streamlit |
+| Blueprint | [Python BKM](https://gist.github.com/amrutnrp/e8e8ab7761e47d4afb35dab2a29ff388) |  | ✅ |  | Python |
+| Dataset | [Hand Gesture - Depth image Samples](https://github.com/amrutnrp/hand-gestures-range-image-samples) |  |  |  | archive |
 
 <!-- Add new projects by copying this row and replacing the placeholders:
 | Category | [Project name](https://github.com/your-account/your-repository) | ✅/ | ✅/ | ✅/ | Technologies / Components |
@@ -116,3 +125,10 @@ Here are my presentable non-work projects, grouped by category for easier browsi
 amrutnrp/amrutnrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
+
